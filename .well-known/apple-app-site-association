@@ -1,0 +1,11 @@
+{
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"EWA7ZGFQVL.com.agilet.cordova",
+               "paths":[ "*" ]
+           }
+         ]
+    }
+}
